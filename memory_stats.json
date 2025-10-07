@@ -1,0 +1,27 @@
+{
+  "flashcard": {
+    "played": 2,
+    "best_score": 30,
+    "total_score": 60
+  },
+  "pattern_grid": {
+    "played": 0,
+    "best_score": 0,
+    "total_score": 0
+  },
+  "number_sequence": {
+    "played": 0,
+    "best_score": 0,
+    "total_score": 0
+  },
+  "whats_missing": {
+    "played": 0,
+    "best_score": 0,
+    "total_score": 0
+  },
+  "color_sequence": {
+    "played": 0,
+    "best_score": 0,
+    "total_score": 0
+  }
+}

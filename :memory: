@@ -1,0 +1,15 @@
+{
+  "theme": "blue",
+  "difficulty": "medium",
+  "sound_enabled": true,
+  "show_hints": true,
+  "font_size": "medium",
+  "practice_mode": false,
+  "show_timer": true,
+  "colorblind_mode": false,
+  "window_width": 1000,
+  "window_height": 750,
+  "stats_file": "memory_stats.db",
+  "backup_enabled": true,
+  "tutorial_completed": false
+}

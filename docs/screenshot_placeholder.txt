@@ -1,0 +1,32 @@
+# Screenshot Placeholder
+
+To add screenshots to the documentation:
+
+1. Run the application: `python app.py`
+2. Take screenshots of:
+   - Main menu
+   - Each training module in action
+   - Statistics page
+   - Settings page
+   - Achievement unlocked notification
+
+3. Save screenshots as:
+   - screenshot.png (main menu - for README)
+   - screenshot_document_codes.png
+   - screenshot_license_plates.png
+   - screenshot_face_recognition.png
+   - screenshot_number_sequences.png
+   - screenshot_scene_details.png
+   - screenshot_route_memory.png
+   - screenshot_statistics.png
+   - screenshot_settings.png
+   - screenshot_achievements.png
+
+4. Place all screenshots in the docs/ folder
+
+5. Update README.md to reference the screenshots
+
+Recommended screenshot tool:
+- Windows: Snipping Tool or Win+Shift+S
+- macOS: Cmd+Shift+4
+- Linux: gnome-screenshot or scrot

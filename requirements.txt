@@ -1,0 +1,11 @@
+# Intelligence Memory Training - Requirements
+# Python 3.6+
+
+# Core dependencies (all built-in)
+# tkinter - GUI framework (included with Python)
+# sqlite3 - Database (included with Python)
+# json - Data serialization (included with Python)
+
+# Optional dependencies for advanced features
+matplotlib>=3.3.0  # For statistics graphs
+pillow>=8.0.0  # For image handling and screenshots
