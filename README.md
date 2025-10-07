@@ -7,7 +7,7 @@
 
 A focused training program for developing photographic memory and rapid recall skills useful in intelligence work, security, and professional fields requiring exceptional memory.
 
-![Screenshot](docs/screenshot.png)
+![Application Screenshot](appscreenshot.png)
 
 ## ⭐ Features
 
